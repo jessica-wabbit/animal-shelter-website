@@ -35,3 +35,16 @@ body {
   padding: 8px;
   background-color: skyblue;
 }
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: grey;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: green;
+  }
+
+}
