@@ -1,0 +1,29 @@
+img {
+  margin: 4px;
+}
+
+img.banner {
+  width: 100%;
+}
+
+.column {
+  width: 300px;
+  margin: 6px;
+  padding: 4px;
+  float: left;
+  text-align: center;
+}
+
+img.col {
+  width: 75%;
+  border-width: 2px;
+  border-style:solid;
+  border-color: magenta;
+
+}
+
+body {
+  margin: 12px;
+  padding: 8px;
+  background-color: skyblue;
+}
