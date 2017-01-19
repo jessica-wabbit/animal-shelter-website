@@ -14,12 +14,20 @@ img.banner {
   text-align: center;
 }
 
-img.col {
+.column img {
   width: 75%;
   border-width: 2px;
   border-style:solid;
   border-color: magenta;
+}
 
+.column h2 {
+  color: yellow;
+  font-family: sans-serif;
+}
+
+.column p {
+  font-style: italic;
 }
 
 body {
